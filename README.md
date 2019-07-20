@@ -1,0 +1,2 @@
+# AndroidSettings
+Android Studio Settings
